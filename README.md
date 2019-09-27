@@ -1,6 +1,6 @@
 [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com)
 
-#Wait for 1 October
+# Wait for 1 October
 
 ## How to contribute
 
