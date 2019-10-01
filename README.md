@@ -9,6 +9,6 @@
 
 Also you can contribute to this projects (Don't hesitate to add your one):
 #### Android
-[Kakao](https://github.com/agoda-com/kakao)
-[Marathon](https://github.com/malinskiy/marathon)
+* [Kakao](https://github.com/agoda-com/kakao)
+* [Marathon](https://github.com/malinskiy/marathon)
 
