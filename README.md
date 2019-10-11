@@ -14,4 +14,4 @@
 * [Marathon](https://github.com/malinskiy/marathon)
 
 #### Kotlin
-* [Sekret](https://github.com/aafanasev/sektet)
+* [Sekret](https://github.com/aafanasev/sekret)
